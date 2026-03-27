@@ -127,8 +127,8 @@ Uber-PowerBI-Dashboard/
 **Nikki Ruhil**
 Aspiring Data Scientist & Data Analyst
 
-🔗 LinkedIn: https://www.linkedin.com
-🔗 GitHub: https://github.com
+🔗 LinkedIn: https://www.linkedin.com/in/nikki-ruhil-351164303/
+🔗 GitHub: https://github.com/nikki-dot
 
 ---
 
